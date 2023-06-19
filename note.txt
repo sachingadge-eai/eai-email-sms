@@ -1,0 +1,6 @@
+Email 
+ email is working only for raw json
+ added validation
+ 
+node index.js
+ 
